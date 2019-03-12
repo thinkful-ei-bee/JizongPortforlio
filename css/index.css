@@ -1,0 +1,92 @@
+
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+ 
+  margin-top:15px;
+}
+
+.nav-bar{
+  border:1px solid lightgray;
+  height:150px;
+}
+
+.name-logo{
+  float:left;
+  font-family: 'Lalezar', cursive;
+  font-size:50px;
+  letter-spacing: 3px;
+}
+
+.banner-area{
+  display:flex;
+  justify-content: space-between;
+  height:950px;
+}
+
+
+.banner-slogan{
+  font-family: 'Anton', sans-serif;
+  font-size:50px;
+  text-align: left;
+  
+}
+.banner-button{
+  margin-top:50px;
+  text-align: left;
+  width:50%;
+}
+
+.banner-desc{
+  text-align: left;
+  width:80%;
+  font-family: 'Muli', sans-serif;
+  font-size:35px;
+}
+.banner-slogan-size{
+  width:80%;
+  height:400px;
+
+}
+
+.banner{
+  width:50%;
+}
+
+.banner-graphic{
+  width:50%;
+  height:900px;
+  border:1px solid lightgray;
+  color:gray;
+  font-size:30px;
+}
+
+.about-me{
+  background-color:black;
+  
+  height:930px;
+
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}

@@ -15,10 +15,33 @@
  *
  **/
 .row {
-  max-width: 1000px;
+  max-width: 1500px;
   padding-left: 20px;
   padding-right: 20px;
   margin: 0 auto;
+}
+
+a.button{
+  text-decoration: none;
+}
+
+.button{
+  padding: 17px 34px;
+  display: inline-block;
+  border: 2.5px solid #000000;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  letter-spacing: 0.36px;
+  -webkit-border-radius: 116px;
+  -moz-border-radius: 116px;
+  border-radius: 116px;
+  color: #000000;
+  background-color: #ffffff;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 /* Clearfix */
