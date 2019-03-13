@@ -17,6 +17,17 @@ main .row {
   height:150px;
 }
 
+.about-me{
+  
+  font-size:60px;
+  color:white;
+  font-family: 'Anton', sans-serif;
+  text-align: left;
+  background-color:black;  
+  height:830px;
+}
+
+
 .name-logo{
   float:left;
   font-family: 'Lalezar', cursive;
@@ -29,6 +40,7 @@ main .row {
   justify-content: space-between;
   height:950px;
 }
+
 
 
 .banner-slogan{
@@ -67,13 +79,23 @@ main .row {
   font-size:30px;
 }
 
-.about-me{
-  background-color:black;
+.portfolio{
+  border:1px solid lightgray;
+  width:40%;
+  height:300px;
+  display:inline-block;
   
-  height:930px;
-
 }
-
+.portfolio-area{
+  height:800px;
+}
+.lets-talk{
+  background-color:black;
+  height:800px;
+  color:white;
+  font-family: 'Anton', sans-serif;
+  font-size:50px;
+}
 .black {
   background-color: black;
   color: white;
